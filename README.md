@@ -1,3 +1,4 @@
 # konflikt-test
 
-hier schreibt Anna
+hier schreibt Anna.
+noch eine Zeile von Anna.
